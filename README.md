@@ -1,2 +1,2 @@
 # array-19
-Finding two element sum whose value is equal to k
+Finding two element sum whose value is equal to k without using hashing
